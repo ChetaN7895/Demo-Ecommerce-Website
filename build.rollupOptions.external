@@ -1,0 +1,4 @@
+build.rollupOptions = {
+  // other configurations
+  external: ['react-speech-recognition'],
+};
