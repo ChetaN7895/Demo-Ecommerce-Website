@@ -28,7 +28,7 @@ const NewProductCard = ({ product }) => {
       <Link to={`product/${productId}`}>
         <h3 className="text-lg font-bold text-gray-800">{product.name}</h3>
         <p className="text-gray-500 text-sm mt-2">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          Welcome to the latest brand new products.
         </p>
         <h4 className="text-lg text-gray-700 font-bold mt-4">
           ${product.price}
