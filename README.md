@@ -1,6 +1,6 @@
 # FashionWaves
 
-[Visit Now](https://demo-ecommerce-website-nine.vercel.app/) 🚀
+[Visit Now](https://fashionwaves-ecommerce.netlify.app/)🚀
 ## Description
 
 FashionWaves is a full-stack web application built with MERN stack, providing users with a seamless shopping experience for clothes. It features user authentication, responsive web design, dark mode/light mode, sections for different clothing categories (men, women, kids), sections for new arrivals and shopping list, advanced search functionality, payment gateway integration with Stripe, user profile management, and an admin dashboard for managing products, orders, users, and comments.
