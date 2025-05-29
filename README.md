@@ -32,7 +32,7 @@ FashionWaves is a full-stack web application built with MERN stack, providing us
 - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Deployed On:**
-- ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+- ![NetLify]((https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white))
 
 ## Features
 
