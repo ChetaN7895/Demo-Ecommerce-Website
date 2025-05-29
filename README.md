@@ -64,10 +64,7 @@ As an admin, you have additional privileges and responsibilities for managing th
 <table>
   <tr>
     <td><img src="https://firebasestorage.googleapis.com/v0/b/e-commerce-f3116.appspot.com/o/Screenshot%202024-03-22%20at%205.19.50%E2%80%AFPM.png?alt=media&token=853f84d4-d54b-473f-8e23-527ec8ce35cb" alt="Admin Dashboard 1" /></td>
-    <td><img src="https://firebasestorage.googleapis.com/v0/b/e-commerce-f3116.appspot.com/o/Screenshot%202024-03-22%20at%205.20.06%E2%80%AFPM.png?alt=media&token=7a452b4a-282b-49ce-bf50-049c67f904a5" alt="Admin Dashboard 2" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://firebasestorage.googleapis.com/v0/b/e-commerce-f3116.appspot.com/o/Screenshot%202024-03-22%20at%205.20.36%E2%80%AFPM.png?alt=media&token=492b1b24-bb69-45bf-a540-468d209e9536" alt="Admin Dashboard 3" /></td>
+    
     <td><img src="https://firebasestorage.googleapis.com/v0/b/e-commerce-f3116.appspot.com/o/Screenshot%202024-03-22%20at%205.20.50%E2%80%AFPM.png?alt=media&token=08e15193-73de-413e-b781-0b4686c528a0" alt="Admin Dashboard 4" /></td>
   </tr>
 </table>
