@@ -92,7 +92,7 @@ const Header = () => {
       {/* Left section */}
       <div className="flex items-center">
         <Link to="/" className="text-lg font-semibold dark:text-gray-50">
-           FashionFleet
+           FashionWaves
         </Link>
       </div>
 
